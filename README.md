@@ -3,11 +3,6 @@
 
 <br>
 
-<div align="center">
-
-### (★) ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢꜱ ᴏʀ ɪꜱꜱᴜᴇꜱ , ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇxᴘʟᴀɪɴ ᴍʏ ᴄᴏᴅᴇ ᴏʀ ɪꜰ ʏᴏᴜ ɴᴇᴇᴅ ʜᴇʟᴘ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘ ʏᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛꜱ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ (★) 👇<br> <br> <br> mnshgnwardhana622@gmail.com
-
-</div>
 
 <div align="center">
 
@@ -24,14 +19,7 @@
 
 <br><br>
 
-<div align="center">
 
-![repo size](https://img.shields.io/github/repo-size/mGunawardhana/BMI-Calc-React?style=for-the-badge) &nbsp;
-![GitHub Last Commit](https://img.shields.io/github/last-commit/mGunawardhana/BMI-Calc-React?style=for-the-badge) &nbsp;
-![GitHub](https://img.shields.io/github/license/mGunawardhana/BMI-Calc-React?style=for-the-badge) &nbsp;
-![GitHub Watchers](https://img.shields.io/github/watchers/mGunawardhana/BMI-Calc-React?style=for-the-badge) &nbsp;
-
-</div>
 
 <br><br>
 
